@@ -743,7 +743,7 @@
 % Define a line of cv information(skill)
 % Usage: \cvskill{<type>}{<skillset>}
 \newcommand*{\cvskill}[2]{%
-	\skilltypestyle{#1} & \skillsetstyle{#2} \\
+	\quad \skilltypestyle{#1} & \skillsetstyle{#2} \\
 }
 
 % Define an environment for cvitems(for cventry)
@@ -761,10 +761,10 @@
 
 % Define an environment for cvbullets
 \newenvironment{cvbullets}{%
-  \vspace{\acvSectionContentTopSkip}
-  \vspace{-1.0mm}
+  % \vspace{\acvSectionContentTopSkip}
+  % \vspace{-1.0mm}
   \paragraphstyle
-  \begin{itemize}[leftmargin=3ex, nosep, noitemsep]
+  \begin{itemize}[leftmargin=2ex, nosep, noitemsep]
     \setlength{\parskip}{0pt}
     \renewcommand{\labelitemi}{\bullet} % Biểu tượng tùy chỉnh
 }{%
