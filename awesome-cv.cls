@@ -825,3 +825,14 @@
       \letterenclosurestyle{\@letterenclname: \@letterenclosure} \\
     }
 }
+
+% Hiển thị dự án con (không phụ thuộc vào \cventry)
+\newcommand{\cvproject}[2]{
+  \vspace{0.8em}
+  \noindent\textbf{\normalsize #1}\par\vspace{0.3em}
+  {\small
+    \begin{cvitems}
+      #2
+    \end{cvitems}
+  }
+}

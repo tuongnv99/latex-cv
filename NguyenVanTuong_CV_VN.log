@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10) (preloaded format=xelatex 2025.3.4)  7 MAY 2025 16:05
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10) (preloaded format=xelatex 2025.3.4)  15 MAY 2025 11:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1089,25 +1089,29 @@ able
 t line 22.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
 (Font)              scaled to size 8.0pt on input line 22.
-) (resume/experience_VN.tex) (resume/whyme_VN.tex
+) (resume/experience_VN.tex
+LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/b/n' will be
+(Font)              scaled to size 10.95pt on input line 49.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 49.
+ [1
+
+]) (resume/whyme_VN.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/b/n' will be
 (Font)              scaled to size 9.0pt on input line 12.
-)
-[1
-
-] (NguyenVanTuong_CV_VN.aux)
+) [2] (NguyenVanTuong_CV_VN.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 33411 strings out of 410379
- 668947 string characters out of 5787443
- 1950416 words of memory out of 5000000
- 54199 multiletter control sequences out of 15000+600000
- 560937 words of font info for 134 fonts, out of 8000000 for 9000
+ 33415 strings out of 410379
+ 669082 string characters out of 5787443
+ 1943416 words of memory out of 5000000
+ 54202 multiletter control sequences out of 15000+600000
+ 560945 words of font info for 135 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 116i,11n,127p,580b,449s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 116i,11n,127p,580b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on NguyenVanTuong_CV_VN.pdf (1 page).
+Output written on NguyenVanTuong_CV_VN.pdf (2 pages).
