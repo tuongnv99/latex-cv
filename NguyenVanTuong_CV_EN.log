@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10) (preloaded format=xelatex 2025.3.4)  11 JUL 2025 15:59
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10) (preloaded format=xelatex 2025.3.4)  16 JUL 2025 16:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1094,18 +1094,18 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/b/n' will be
 (Font)              scaled to size 9.0pt on input line 86.
  [1
 
-]) (resume/whyme.tex)
-[2] (NguyenVanTuong_CV_EN.aux)
+]) (resume/projects.tex)
+(resume/whyme.tex) [2] (NguyenVanTuong_CV_EN.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 33414 strings out of 410379
- 668924 string characters out of 5787443
- 1945416 words of memory out of 5000000
- 54202 multiletter control sequences out of 15000+600000
+ 33420 strings out of 410379
+ 669052 string characters out of 5787443
+ 1946416 words of memory out of 5000000
+ 54205 multiletter control sequences out of 15000+600000
  560937 words of font info for 134 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  116i,11n,127p,580b,560s stack positions out of 10000i,1000n,20000p,200000b,200000s
